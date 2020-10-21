@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Lukman FR <img width="45" src="https://github.com/Lok1man/jesslyn1999/blob/main/res/img/dog.gif">
+# Lukman FR's Code Diary <img width="45" src="https://github.com/Lok1man/jesslyn1999/blob/main/res/img/dog.gif">
 
 feel free to explore it
 
