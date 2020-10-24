@@ -31,9 +31,8 @@ quotes from a famous tech guy
 ### My Skills
 
 <p>
-  <img alt="git" src="https://img.shields.io/endpoint?color=blue&label=SQL&logo=SQL&logoColor=white&style=flat-square&url=ggg" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="SQL" src="https://badgen.net/badge/icon/postgresql?icon=postgresql&label" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-AAC148?style=flat-square&logo=android&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
