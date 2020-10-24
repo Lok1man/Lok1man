@@ -15,9 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Lukman FR's Code Diary <img width="45" src="https://github.com/LukmanFr/jesslyn1999/blob/main/res/img/dog.gif">
+# Lukman's (still very little) Coding Journey 
 
-feel free to explore it
+Wilkommen
+Why am I on GitHub?
+- [x] Fulfilling requirements of DSC ITB
+- [ ] Practicing the knowledge I got from DSC ITB 
+- [ ] Learning tons of other amazing stuff 
+- [ ] Sharing my knowledge with others
+
+> Be yourself and never surrender
+quotes from a famous tech guy
 
 ### My Skills
 
@@ -39,4 +47,4 @@ feel free to explore it
 
 ---
 
-Reach me at
+📫 How to reach me: https://www.linkedin.com/in/lukman-fadlansyah-ramadhan-79437119b/
