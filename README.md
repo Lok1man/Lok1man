@@ -48,4 +48,4 @@ quotes from a famous tech guy which I live by everyday
 
 ---
 
-📫 How to reach me: https://www.linkedin.com/in/lukman-fadlansyah-ramadhan-79437119b/
+📫 How to reach me: https://www.linkedin.com/in/lukman-fadlansyah-ramadhan-79437119b/ or https://www.instagram.com/blessed_fetus/
