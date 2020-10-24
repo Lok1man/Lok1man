@@ -15,27 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Lukman's (still very little) Coding Journey 
+# Lukman FR's (still very little) Coding Journey 
 
-Wilkommen
+Wilkommen!!
+
 Why am I on GitHub?
 - [x] Fulfilling requirements of DSC ITB
 - [ ] Practicing the knowledge I got from DSC ITB 
 - [ ] Learning tons of other amazing stuff 
 - [ ] Sharing my knowledge with others
 
+Currently an Undergrad student majoring in Geomatics at Institut Teknologi Bandung
+
 > Be yourself and never surrender
 
-quotes from a famous tech guy
+quotes from a famous tech guy which I live by everyday
 
 ### My Skills
 
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="SQL" src="https://badgen.net/badge/icon/postgresql?icon=postgresql&label" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/-Android-AAC148?style=flat-square&logo=android&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Azure" src="https://badgen.net/badge/icon/azure?icon=azure&label" />
 </p>
 
 
