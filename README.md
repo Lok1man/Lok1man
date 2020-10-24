@@ -25,6 +25,7 @@ Why am I on GitHub?
 - [ ] Sharing my knowledge with others
 
 > Be yourself and never surrender
+
 quotes from a famous tech guy
 
 ### My Skills
