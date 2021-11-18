@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 
 Wilkommen!!
 
-Why am I on GitHub?
-- [x] Fulfilling requirements of DSC ITB
-- [ ] Practicing the knowledge I got from DSC ITB 
-- [ ] Learning tons of other amazing stuff 
-- [ ] Sharing my knowledge with others
-
 Currently an Undergrad student majoring in Geomatics at Institut Teknologi Bandung
 
 > Be yourself and never surrender
@@ -36,7 +30,7 @@ quotes from a famous tech guy which I live by everyday
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="SQL" src="https://badgen.net/badge/icon/postgresql?icon=postgresql&label" />
-  <img alt="Azure" src="https://badgen.net/badge/icon/azure?icon=azure&label" />
+  <img src="https://img.shields.io/badge/GEE-GoogleEarthEngine-BRIGHTBLUE" alt="GEE - GoogleEarthEngine" />
 </p>
 
 
